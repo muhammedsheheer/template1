@@ -8,7 +8,7 @@ import Providers from "@/app/Providers";
 
 export const metadata: Metadata = {
   title: "template1",
-  description: "Blends Cafe",
+  description: "template1",
   icons: [{ rel: "icon", url: "/images/home/hero/logo.png", sizes: "11x11" }],
 };
 
